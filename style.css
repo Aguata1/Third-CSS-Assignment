@@ -2,6 +2,7 @@ body{
 margin:0;
 padding:0;
 box-sizing: border-box;
+max-width: fit-content;
 }
 
 
@@ -61,6 +62,7 @@ color:blue
     text-align: start;
     margin-left: 150px;
 }
+
 .footer{
         text-align: center;
         text-wrap: wrap;
