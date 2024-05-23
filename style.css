@@ -1,8 +1,6 @@
 body{
 margin:0;
 padding:0;
-box-sizing: border-box;
-max-width: fit-content;
 }
 
 
@@ -18,7 +16,7 @@ max-width: fit-content;
 
 .navbar2{
     border: 1px solid black;
-    margin: auto 150px;
+    margin: 10px 80px 80px;
     text-align: center;
     text-wrap: wrap;
     box-shadow: 10px 10px 10px 10px;
