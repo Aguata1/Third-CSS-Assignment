@@ -1,0 +1,77 @@
+body{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+
+.navbar{
+    background-color: black;
+    padding: 0.0005px;
+}
+
+.nabar-body{
+    margin:40px 200px;
+    text-align: justify;
+}
+
+.navbar2{
+    border: 1px solid black;
+    margin: auto 150px;
+    text-align: center;
+    text-wrap: wrap;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.navbar-list{  
+    display: flex;
+   
+    align-items: center;
+justify-content: center;
+
+}
+
+.navbar-list li{
+    padding: 1rem;
+    text-align: justify;
+list-style-type: none;
+color: white;
+
+}
+.search{
+    height: 30px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.href{
+color:blue
+}
+.navbar2{
+    text-align: justify;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.name{
+    opacity: 0.5;
+    text-align: start;
+    margin-left: 150px;
+}
+.footer{
+        text-align: center;
+        text-wrap: wrap;
+}
+
+h5{
+    text-align: start;
+    margin-left: 150px;
+}
+
+p{
+    text-align: start;
+    margin-left: 150px; 
+}
